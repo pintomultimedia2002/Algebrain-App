@@ -1,6 +1,6 @@
 # Algebrain App
 
-[![Deploy Status](https://img.shields.io/badge/Deployment-Live-success)](https://pintomultimedia2002.github.io/Algebrain-App/)
+[![Deploy Status](https://img.shields.io/badge/Deployment-None)](https://pintomultimedia2002.github.io/Algebrain-App/)
 
 [🇪🇸 Español](#descripción-del-proyecto) | [🇺🇸 English](#project-description)
 
